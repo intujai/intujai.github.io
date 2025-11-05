@@ -1,10 +1,10 @@
 ---
-title: Publications
+title: Libros y publicaciones
 
 # Listing view
 view: citation
 
-# Optional banner image (relative to `assets/media/` folder).
+# Optional banner image (relative to `media/` folder).
 banner:
   caption: ''
   image: ''
